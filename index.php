@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Bitcoin Tracker</title>
+<title>Bitcoin Tracker Website</title>
 </head>
 <body>
 </body>
